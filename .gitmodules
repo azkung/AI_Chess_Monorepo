@@ -13,3 +13,12 @@
 [submodule "AI_Chess_5.1"]
 	path = AI_Chess_5.1
 	url = https://github.com/azkung/AI_Chess_5.1
+[submodule "AI_Chess_2.1"]
+	path = AI_Chess_2.1
+	url = https://github.com/azkung/AI_Chess_2.1
+[submodule "AI_Chess_2.2"]
+	path = AI_Chess_2.2
+	url = https://github.com/azkung/AI_Chess_2.2
+[submodule "AI_Chess_5.0"]
+	path = AI_Chess_5.0
+	url = https://github.com/azkung/AI_Chess_5.0
