@@ -22,3 +22,6 @@
 [submodule "AI_Chess_5.0"]
 	path = AI_Chess_5.0
 	url = https://github.com/azkung/AI_Chess_5.0
+[submodule "AI_Chess_3.0"]
+	path = AI_Chess_3.0
+	url = https://github.com/azkung/AI_Chess_3.0
