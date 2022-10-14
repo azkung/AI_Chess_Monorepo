@@ -1,7 +1,7 @@
 # Chess AI Monorepo
 #### by Alexander Kung
 
-The following repository is a multi-year personal research/learning project.The repositories in this monorepo are some of the several chess AI agents that I have programmed over the years. All agents make use of various algorithmic and ML/DL concepts in order to play the complex game of chess.
+The following repository is a multi-year personal research/learning project. The repositories in this monorepo are some of the several chess AI agents that I have programmed over the years. All agents make use of various algorithmic and ML/DL concepts in order to play the complex game of chess.
 
 ## Version Summary
 
